@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.font-color{
+  color: #234CAD;
+}
+
+.border-color{
+  outline-color: #234CAD;
+  outline-style: solid;
+}
+
+.bg-inline {
+  background-color: #f2f6ff;
+}
+
+.bg-login:hover {
+  background-color: #ffffff;
+  color: #234CAD;
+}
+
+.bg-signUp:hover{
+  background-color: #e0e6f6;
+  color: #234CAD;
+}
+
+.bg-card:hover{
+  background-color: #ffffff;
+  color: #234CAD;
+  outline-color: #234CAD;
+  outline-style: solid;
+}
+
+
