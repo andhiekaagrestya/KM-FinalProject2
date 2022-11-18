@@ -6,4 +6,4 @@
 2. Aldo Vierisyah
 3. William Soeparman
 
-DEMO Website Kami - [Landing Pages]([https://jne-clone.netlify.app/](https://final-project-2-hacktiv8.herokuapp.com/))
+DEMO Website Kami - [Landing Pages](https://final-project-2-hacktiv8.herokuapp.com/)
