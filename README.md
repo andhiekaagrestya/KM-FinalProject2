@@ -6,4 +6,4 @@
 2. Aldo Vierisyah
 3. William Soeparman
 
-DEMO Website Kami - [Landing Pages](landing-pages-fp2.netlify.app)
+DEMO Website Kami - [Landing Pages](https://landing-pages-fp2.netlify.app/)
